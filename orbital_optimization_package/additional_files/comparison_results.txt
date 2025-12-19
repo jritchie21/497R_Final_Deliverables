@@ -1,0 +1,306 @@
+OPTIMIZER COMPARISON TEST
+================================================================================
+Max fuel cost: 100 km/s
+Max time limit: 5.0 minutes
+Starting with 10 orbits
+================================================================================
+
+
+================================================================================
+Testing with 10 orbits
+Manual Optimizer results:
+  Path: [0, 8, 2, 3, 7, 6, 4, 1]
+  Value: 7.00
+  Fuel: 92.91 km/s
+  Time: 0.0593 seconds
+Manual with 10 orbits
+total value: 7.0
+fuel cost: 92.9126025380276
+time cost: 20.599708315721372
+elapsed time: 0.05930924415588379
+path: [0, 8, 2, 3, 7, 6, 4, 1]
+
+================================================================================
+Testing with 11 orbits
+Manual Optimizer results:
+  Path: [0, 10, 8, 5, 2, 3, 7, 6]
+  Value: 7.00
+  Fuel: 83.36 km/s
+  Time: 0.1154 seconds
+Manual with 11 orbits
+total value: 7.0
+fuel cost: 83.36175396041916
+time cost: 20.60028786944126
+elapsed time: 0.11538386344909668
+path: [0, 10, 8, 5, 2, 3, 7, 6]
+
+================================================================================
+Testing with 12 orbits
+Manual Optimizer results:
+  Path: [0, 10, 2, 3, 7, 6, 4, 11, 9]
+  Value: 8.00
+  Fuel: 99.10 km/s
+  Time: 0.2852 seconds
+Manual with 12 orbits
+total value: 8.0
+fuel cost: 99.10410084142362
+time cost: 23.78549265293686
+elapsed time: 0.2851567268371582
+path: [0, 10, 2, 3, 7, 6, 4, 11, 9]
+
+================================================================================
+Testing with 13 orbits
+Manual Optimizer results:
+  Path: [0, 10, 2, 3, 7, 6, 12, 9, 11]
+  Value: 8.00
+  Fuel: 97.83 km/s
+  Time: 0.7285 seconds
+Manual with 13 orbits
+total value: 8.0
+fuel cost: 97.83029639780477
+time cost: 24.073735920381175
+elapsed time: 0.7285377979278564
+path: [0, 10, 2, 3, 7, 6, 12, 9, 11]
+
+================================================================================
+Testing with 14 orbits
+Manual Optimizer results:
+  Path: [0, 13, 10, 8, 5, 2, 3, 7, 6]
+  Value: 8.00
+  Fuel: 94.98 km/s
+  Time: 1.0399 seconds
+Manual with 14 orbits
+total value: 8.0
+fuel cost: 94.97903565337833
+time cost: 23.54344362402122
+elapsed time: 1.0399384498596191
+path: [0, 13, 10, 8, 5, 2, 3, 7, 6]
+
+================================================================================
+Testing with 15 orbits
+Manual Optimizer results:
+  Path: [0, 13, 10, 8, 5, 2, 3, 7, 6]
+  Value: 8.00
+  Fuel: 94.98 km/s
+  Time: 1.8808 seconds
+Manual with 15 orbits
+total value: 8.0
+fuel cost: 94.97903565337867
+time cost: 23.543443624023983
+elapsed time: 1.8808412551879883
+path: [0, 13, 10, 8, 5, 2, 3, 7, 6]
+
+================================================================================
+Testing with 16 orbits
+Manual Optimizer results:
+  Path: [0, 13, 15, 10, 8, 2, 3, 7, 6]
+  Value: 8.00
+  Fuel: 87.66 km/s
+  Time: 2.6246 seconds
+Manual with 16 orbits
+total value: 8.0
+fuel cost: 87.65739450064076
+time cost: 23.56339883088184
+elapsed time: 2.6246211528778076
+path: [0, 13, 15, 10, 8, 2, 3, 7, 6]
+
+================================================================================
+Testing with 17 orbits
+Manual Optimizer results:
+  Path: [0, 10, 15, 13, 16, 12, 6, 7, 3, 2]
+  Value: 9.00
+  Fuel: 99.35 km/s
+  Time: 4.6235 seconds
+Manual with 17 orbits
+total value: 9.0
+fuel cost: 99.34921459973955
+time cost: 26.443646675116465
+elapsed time: 4.623544216156006
+path: [0, 10, 15, 13, 16, 12, 6, 7, 3, 2]
+
+================================================================================
+Testing with 18 orbits
+Manual Optimizer results:
+  Path: [0, 13, 15, 10, 17, 8, 2, 3, 7, 6]
+  Value: 9.00
+  Fuel: 96.24 km/s
+  Time: 7.8794 seconds
+Manual with 18 orbits
+total value: 9.0
+fuel cost: 96.23807037590325
+time cost: 26.60058461551851
+elapsed time: 7.87944769859314
+path: [0, 13, 15, 10, 17, 8, 2, 3, 7, 6]
+
+================================================================================
+Testing with 19 orbits
+Manual Optimizer results:
+  Path: [0, 13, 15, 10, 17, 2, 3, 7, 18, 14]
+  Value: 9.00
+  Fuel: 95.67 km/s
+  Time: 12.2174 seconds
+Manual with 19 orbits
+total value: 9.0
+fuel cost: 95.6674984104107
+time cost: 27.104526234422117
+elapsed time: 12.217363595962524
+path: [0, 13, 15, 10, 17, 2, 3, 7, 18, 14]
+
+================================================================================
+Testing with 20 orbits
+Manual Optimizer results:
+  Path: [0, 10, 15, 17, 19, 5, 2, 3, 7, 6]
+  Value: 9.00
+  Fuel: 93.44 km/s
+  Time: 17.7057 seconds
+Manual with 20 orbits
+total value: 9.0
+fuel cost: 93.44318016895846
+time cost: 26.60243565612161
+elapsed time: 17.705671548843384
+path: [0, 10, 15, 17, 19, 5, 2, 3, 7, 6]
+
+================================================================================
+Testing with 21 orbits
+Manual Optimizer results:
+  Path: [0, 10, 15, 13, 1, 20, 11, 9, 16, 12]
+  Value: 9.00
+  Fuel: 93.00 km/s
+  Time: 26.5043 seconds
+Manual with 21 orbits
+total value: 9.0
+fuel cost: 93.00341645912636
+time cost: 27.379469358761728
+elapsed time: 26.504265785217285
+path: [0, 10, 15, 13, 1, 20, 11, 9, 16, 12]
+
+================================================================================
+Testing with 22 orbits
+Manual Optimizer results:
+  Path: [0, 10, 15, 13, 1, 20, 11, 9, 16, 21, 12]
+  Value: 10.00
+  Fuel: 99.39 km/s
+  Time: 44.8922 seconds
+Manual with 22 orbits
+total value: 10.0
+fuel cost: 99.38725358126185
+time cost: 30.294944375918455
+elapsed time: 44.89224624633789
+path: [0, 10, 15, 13, 1, 20, 11, 9, 16, 21, 12]
+
+================================================================================
+Testing with 23 orbits
+Manual Optimizer results:
+  Path: [0, 10, 15, 13, 1, 20, 11, 9, 16, 21, 12]
+  Value: 10.00
+  Fuel: 99.39 km/s
+  Time: 64.4960 seconds
+Manual with 23 orbits
+total value: 10.0
+fuel cost: 99.38725358133296
+time cost: 30.2949443759218
+elapsed time: 64.4960389137268
+path: [0, 10, 15, 13, 1, 20, 11, 9, 16, 21, 12]
+
+================================================================================
+Testing with 24 orbits
+Manual Optimizer results:
+  Path: [0, 10, 15, 17, 19, 5, 2, 3, 23, 7, 6]
+  Value: 10.00
+  Fuel: 99.08 km/s
+  Time: 109.7858 seconds
+Manual with 24 orbits
+total value: 10.0
+fuel cost: 99.07690660765131
+time cost: 29.55230920493796
+elapsed time: 109.78580617904663
+path: [0, 10, 15, 17, 19, 5, 2, 3, 23, 7, 6]
+
+================================================================================
+Testing with 25 orbits
+Manual Optimizer results:
+  Path: [0, 10, 15, 13, 24, 1, 20, 9, 16, 21, 12]
+  Value: 10.00
+  Fuel: 96.60 km/s
+  Time: 165.4609 seconds
+Manual with 25 orbits
+total value: 10.0
+fuel cost: 96.59666981147403
+time cost: 30.12933895405363
+elapsed time: 165.46085333824158
+path: [0, 10, 15, 13, 24, 1, 20, 9, 16, 21, 12]
+
+================================================================================
+Testing with 26 orbits
+Manual Optimizer results:
+  Path: [0, 10, 15, 17, 22, 2, 3, 25, 23, 7, 6]
+  Value: 10.00
+  Fuel: 94.92 km/s
+  Time: 279.1082 seconds
+Manual with 26 orbits
+total value: 10.0
+fuel cost: 94.92144684002088
+time cost: 29.52411855187982
+elapsed time: 279.1082055568695
+path: [0, 10, 15, 17, 22, 2, 3, 25, 23, 7, 6]
+
+================================================================================
+Testing with 27 orbits
+Manual Optimizer results:
+  Path: [0, 10, 15, 17, 22, 2, 3, 25, 23, 7, 6]
+  Value: 10.00
+  Fuel: 94.92 km/s
+  Time: 433.4233 seconds
+Manual with 27 orbits
+total value: 10.0
+fuel cost: 94.92144684062032
+time cost: 29.5241185518753
+elapsed time: 433.4233458042145
+path: [0, 10, 15, 17, 22, 2, 3, 25, 23, 7, 6]
+
+[Manual Optimizer] exceeded 5.0 minute limit!
+================================================================================
+
+
+
+[Gurobi Optimizer] 
+
+================================================================================
+RESULTS SUMMARY
+================================================================================
+[['Gurobi with 10 orbits', 'total value: 7.0', 'fuel cost: 92.9126025380317', 'time cost: 20.599708315721507', 'elapsed time: 0.4095625877380371', 'path: [0, 8, 2, 3, 7, 6, 4, 1]']]
+[['Gurobi with 11 orbits', 'total value: 7.0', 'fuel cost: 83.36175396042734', 'time cost: 20.600287869441516', 'elapsed time: 0.560352087020874', 'path: [0, 10, 8, 5, 2, 3, 7, 6]']]
+[['Gurobi with 12 orbits', 'total value: 8.0', 'fuel cost: 99.10410084142487', 'time cost: 23.78549265293828', 'elapsed time: 1.332927942276001', 'path: [0, 10, 2, 3, 7, 6, 4, 11, 9]']]
+[['Gurobi with 13 orbits', 'total value: 8.0', 'fuel cost: 97.83029639780136', 'time cost: 24.073735920380877', 'elapsed time: 1.146885871887207', 'path: [0, 10, 2, 3, 7, 6, 12, 9, 11]']]
+[['Gurobi with 14 orbits', 'total value: 8.0', 'fuel cost: 94.97903565336729', 'time cost: 23.54344362402006', 'elapsed time: 0.5304074287414551', 'path: [0, 13, 10, 8, 5, 2, 3, 7, 6]']]
+[['Gurobi with 15 orbits', 'total value: 8.0', 'fuel cost: 94.97903565336729', 'time cost: 23.54344362402006', 'elapsed time: 0.7180545330047607', 'path: [0, 13, 10, 8, 5, 2, 3, 7, 6]']]
+[['Gurobi with 16 orbits', 'total value: 8.0', 'fuel cost: 87.65739450063924', 'time cost: 23.563398830885845', 'elapsed time: 0.9855101108551025', 'path: [0, 13, 15, 10, 8, 2, 3, 7, 6]']]
+[['Gurobi with 17 orbits', 'total value: 9.0', 'fuel cost: 99.34921459966773', 'time cost: 26.443646675125613', 'elapsed time: 0.7918553352355957', 'path: [0, 10, 15, 13, 16, 12, 6, 7, 3, 2]']]
+[['Gurobi with 18 orbits', 'total value: 9.0', 'fuel cost: 96.23807037584969', 'time cost: 26.60058461549767', 'elapsed time: 0.8489758968353271', 'path: [0, 13, 15, 10, 17, 8, 2, 3, 7, 6]']]
+[['Gurobi with 19 orbits', 'total value: 9.0', 'fuel cost: 95.6674984102967', 'time cost: 27.10452623435438', 'elapsed time: 1.1389083862304688', 'path: [0, 13, 15, 10, 17, 2, 3, 7, 18, 14]']]
+[['Gurobi with 20 orbits', 'total value: 9.0', 'fuel cost: 93.443180168819', 'time cost: 26.60243565604846', 'elapsed time: 0.29737234115600586', 'path: [0, 10, 15, 17, 19, 5, 2, 3, 7, 6]']]
+[['Gurobi with 21 orbits', 'total value: 9.0', 'fuel cost: 93.00341645881223', 'time cost: 27.379469358624707', 'elapsed time: 2.9278602600097656', 'path: [0, 10, 15, 13, 1, 20, 11, 9, 16, 12]']]
+[['Gurobi with 22 orbits', 'total value: 10.0', 'fuel cost: 99.38725358091176', 'time cost: 30.294944375707438', 'elapsed time: 1.597015619277954', 'path: [0, 10, 15, 13, 1, 20, 11, 9, 16, 21, 12]']]
+[['Gurobi with 23 orbits', 'total value: 10.0', 'fuel cost: 99.38725358091176', 'time cost: 30.294944375707438', 'elapsed time: 1.160834789276123', 'path: [0, 10, 15, 13, 1, 20, 11, 9, 16, 21, 12]']]
+[['Gurobi with 24 orbits', 'total value: 10.0', 'fuel cost: 99.07690660667306', 'time cost: 29.552309204638835', 'elapsed time: 2.4254117012023926', 'path: [0, 10, 15, 17, 19, 5, 2, 3, 23, 7, 6]']]
+[['Gurobi with 25 orbits', 'total value: 10.0', 'fuel cost: 96.59666981032913', 'time cost: 30.12933895362633', 'elapsed time: 1.950634241104126', 'path: [0, 10, 15, 13, 24, 1, 20, 9, 16, 21, 12]']]
+[['Gurobi with 26 orbits', 'total value: 10.0', 'fuel cost: 94.92144683794609', 'time cost: 29.52411855120678', 'elapsed time: 3.7104337215423584', 'path: [0, 10, 15, 17, 22, 2, 3, 25, 23, 7, 6]']]
+[['Gurobi with 27 orbits', 'total value: 10.0', 'fuel cost: 94.92144683794609', 'time cost: 29.52411855120678', 'elapsed time: 4.52861213684082', 'path: [0, 10, 15, 17, 22, 2, 3, 25, 23, 7, 6]']]
+[['Gurobi with 28 orbits', 'total value: 10.0', 'fuel cost: 94.60884744278168', 'time cost: 30.357115232156694', 'elapsed time: 8.891993999481201', 'path: [0, 10, 15, 13, 24, 1, 20, 9, 27, 16, 21]']]
+[['Gurobi with 29 orbits', 'total value: 10.0', 'fuel cost: 94.60884744278168', 'time cost: 30.357115232156694', 'elapsed time: 5.562297821044922', 'path: [0, 10, 15, 13, 24, 1, 20, 9, 27, 16, 21]']]
+[['Gurobi with 30 orbits', 'total value: 10.0', 'fuel cost: 94.60884744278168', 'time cost: 30.357115232156694', 'elapsed time: 9.100458860397339', 'path: [0, 10, 15, 13, 24, 1, 20, 9, 27, 16, 21]']]
+[['Gurobi with 31 orbits', 'total value: 10.0', 'fuel cost: 91.70885214340387', 'time cost: 29.567966270614907', 'elapsed time: 7.69286584854126', 'path: [0, 10, 15, 17, 30, 2, 3, 25, 23, 7, 6]']]
+[['Gurobi with 32 orbits', 'total value: 11.0', 'fuel cost: 99.91196535795308', 'time cost: 32.503059805076326', 'elapsed time: 16.41748595237732', 'path: [0, 10, 15, 17, 30, 2, 3, 25, 23, 31, 7, 6]']]
+[['Gurobi with 33 orbits', 'total value: 11.0', 'fuel cost: 97.86152120009939', 'time cost: 32.538101412448604', 'elapsed time: 15.791550636291504', 'path: [0, 10, 15, 17, 32, 19, 5, 30, 2, 3, 25, 23]']]
+[['Gurobi with 34 orbits', 'total value: 11.0', 'fuel cost: 97.86152120009939', 'time cost: 32.538101412448604', 'elapsed time: 12.83083462715149', 'path: [0, 10, 15, 17, 32, 19, 5, 30, 2, 3, 25, 23]']]
+[['Gurobi with 35 orbits', 'total value: 11.0', 'fuel cost: 97.39803662664931', 'time cost: 32.5084374727719', 'elapsed time: 9.62960171699524', 'path: [0, 34, 13, 15, 10, 17, 30, 2, 3, 25, 23, 31]']]
+[['Gurobi with 36 orbits', 'total value: 11.0', 'fuel cost: 97.39803662664931', 'time cost: 32.5084374727719', 'elapsed time: 14.611057996749878', 'path: [0, 34, 13, 15, 10, 17, 30, 2, 3, 25, 23, 31]']]
+[['Gurobi with 37 orbits', 'total value: 11.0', 'fuel cost: 97.39803662664931', 'time cost: 32.5084374727719', 'elapsed time: 15.309980392456055', 'path: [0, 34, 13, 15, 10, 17, 30, 2, 3, 25, 23, 31]']]
+[['Gurobi with 38 orbits', 'total value: 11.0', 'fuel cost: 94.6062855525853', 'time cost: 32.52593329676175', 'elapsed time: 26.577001571655273', 'path: [0, 34, 13, 15, 17, 30, 2, 37, 3, 25, 23, 31]']]
+[['Gurobi with 39 orbits', 'total value: 11.0', 'fuel cost: 94.6062855525853', 'time cost: 32.52593329676175', 'elapsed time: 47.19450831413269', 'path: [0, 34, 13, 15, 17, 30, 2, 37, 3, 25, 23, 31]']]
+[['Gurobi with 40 orbits', 'total value: 11.0', 'fuel cost: 94.6062855525853', 'time cost: 32.52593329676175', 'elapsed time: 116.5686902999878', 'path: [0, 34, 13, 15, 17, 30, 2, 37, 3, 25, 23, 31]']]
+[['Gurobi with 41 orbits', 'total value: 11.0', 'fuel cost: 94.6062855525853', 'time cost: 32.52593329676175', 'elapsed time: 102.30057048797607', 'path: [0, 34, 13, 15, 17, 30, 2, 37, 3, 25, 23, 31]']]
+[['Gurobi with 42 orbits', 'total value: 11.0', 'fuel cost: 94.6062855525853', 'time cost: 32.52593329676175', 'elapsed time: 110.46381759643555', 'path: [0, 34, 13, 15, 17, 30, 2, 37, 3, 25, 23, 31]']]
+[['Gurobi with 43 orbits', 'total value: 11.0', 'fuel cost: 94.6062855525853', 'time cost: 32.52593329676175', 'elapsed time: 157.61288356781006', 'path: [0, 34, 13, 15, 17, 30, 2, 37, 3, 25, 23, 31]']]
+[['Gurobi with 44 orbits', 'total value: 11.0', 'fuel cost: 94.6062855525853', 'time cost: 32.52593329676175', 'elapsed time: 170.11823225021362', 'path: [0, 34, 13, 15, 17, 30, 2, 37, 3, 25, 23, 31]']]
+[['Gurobi with 45 orbits', 'total value: 11.0', 'fuel cost: 94.6062855525853', 'time cost: 32.52593329676175', 'elapsed time: 525.0821449756622', 'path: [0, 34, 13, 15, 17, 30, 2, 37, 3, 25, 23, 31]']]
