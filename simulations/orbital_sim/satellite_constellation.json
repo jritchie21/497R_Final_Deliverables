@@ -1,0 +1,47 @@
+{
+  "epoch": "2025-12-18T00:51:33.752587",
+  "satellites": {
+    "ISS": {
+      "name": "ISS",
+      "color": "red",
+      "size": 300,
+      "trail_length": 200,
+      "orbital_elements": {
+        "a": 6780000.0,
+        "e": 0.0001,
+        "i": 51.6,
+        "omega": 0,
+        "w": 0,
+        "M": 0
+      }
+    },
+    "POLAR-1": {
+      "name": "POLAR-1",
+      "color": "blue",
+      "size": 250,
+      "trail_length": 200,
+      "orbital_elements": {
+        "a": 7200000.0,
+        "e": 0.001,
+        "i": 90,
+        "omega": 0,
+        "w": 90,
+        "M": 45
+      }
+    },
+    "MOLNIYA-1": {
+      "name": "MOLNIYA-1",
+      "color": "green",
+      "size": 250,
+      "trail_length": 200,
+      "orbital_elements": {
+        "a": 26600000.0,
+        "e": 0.74,
+        "i": 63.4,
+        "omega": 45,
+        "w": 270,
+        "M": 0
+      }
+    }
+  }
+}
