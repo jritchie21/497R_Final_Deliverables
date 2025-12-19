@@ -1,6 +1,6 @@
 # Orbital Transfer Utilities (Python)
 
-This repository contains a small collection of Python scripts for analyzing **orbital transfer maneuvers** and estimating **Δv** and **time of flight** for common spacecraft trajectory types.  
+This repository contains a small collection of ***PRELIMINARY AND IN DEVELOPMENT*** Python scripts for analyzing orbital transfer maneuvers and estimating Δv and time of flight for common spacecraft trajectory types.  
 The code is intended for **educational, exploratory, and early-stage mission analysis** use.
 
 ---
